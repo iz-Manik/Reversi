@@ -1,4 +1,0 @@
-./Documents/Reversi/app/.gitignore
-./Documents/Reversi/app/build.gradle
-./Documents/Reversi/app/proguard-rules.pro
-./Documents/Reversi/app/src/androidTest/java/com/example/reversi/ExampleInstrumentedTest.java
